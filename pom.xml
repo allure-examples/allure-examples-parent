@@ -64,4 +64,31 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+            <id>charlie</id>
+            <name>Dmitry Baev</name>
+            <email>charlie@yandex-team.ru</email>
+            <organization>Yandex</organization>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <issueManagement>
+        <system>GitHub Issues</system>
+        <url>https://github.com/allure-framework/allure-core/issues</url>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/allure-examples/allure-examples-parent</url>
+        <connection>scm:git@github.com:allure-examples/allure-examples-parent.git</connection>
+        <developerConnection>scm:git:git@github.com:allure-examples/allure-examples-parent.git</developerConnection>
+    </scm>
 </project>
